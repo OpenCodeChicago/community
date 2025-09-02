@@ -10,7 +10,7 @@ This repository serves as the central hub for community guidelines, contribution
 - 🗣 Discussions – share ideas, ask questions, connect  
 
 ## Join the Conversation
-- 💬 [Facebook Pafe](https://www.facebook.com/profile.php?id=61580367112591)  
+- 💬 [Facebook Page](https://www.facebook.com/profile.php?id=61580367112591)  
 - 💬 [Facebook Group](https://www.facebook.com/groups/1163060675870891)  
 - 💬 [LinkedIn](https://www.linkedin.com/company/open-code-chicago)  
 - 🌐 [Website](https://opencodechicago.org/)  
